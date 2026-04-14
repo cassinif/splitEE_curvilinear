@@ -4,7 +4,7 @@ This is a companion software to the manuscript
 
 [M. Caliari and F. Cassini. A tensor-based exponential integrator for
 diffusion--reaction equations in common curvilinear coordinates,
-arXiv preprint, arXiv:XXX, 2026](https://doi.org/YYY)
+arXiv preprint, arXiv:2604.11558, 2026](https://doi.org/10.48550/arXiv.2604.11558)
 
 In particular, it contains all the functions and scripts needed to reproduce
 the numerical experiments of the manuscript.
